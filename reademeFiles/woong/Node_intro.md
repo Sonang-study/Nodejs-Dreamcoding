@@ -1,6 +1,6 @@
 
-## 1. Introduction
-## 2.  Node의 전반적인 개념(What's Node JS?)
+## Introduction
+## Node의 전반적인 개념(What's Node JS?)
 
 ### 노드는 무엇이고 어떻게 공부하는게 좋을까?
  JavaScriptCord, Chakra SpiderMonkey V8(JIT, Just in time Engine) -> JavaScript Engine(1995)
@@ -54,7 +54,7 @@ Thread Pool의 개수만큼 한번에 처리 가능, 개수를 넘으면 대기
 
 노드서버는 여러가지 요청을 빠르게 처리 가능(주문을 받는 점원이 따로 있다.)
 
-## 3. Tools. Preparation
+## Tools. Preparation
 ### REPL이란 무엇인가
 
 Read Eval Print Loop (정보를 받아서 연산 프린트 반복)
@@ -63,18 +63,18 @@ Read Eval Print Loop (정보를 받아서 연산 프린트 반복)
 
 node  파일이름 -> 실행가능
 
-## 4. Node Modules
+## Node Modules
 
 ### Node 모듈을 어디서 찾아야하는지
 
-### 4.3 글로벌 오브젝트 - 소스 공부법
+### 글로벌 오브젝트 - 소스 공부법
 
 WebBrowser 에서는 windows와 같은 것이 Node 에서의 global 전역 객체로 활용된다
 
 
-## 4.11 path 그리고 유의할 점
+## path 그리고 유의할 점
 
-## 4.14 Buffer와 스트림
+## Buffer와 스트림
 - progressive Download
 - Twitch를 실시간 방송할 때 쓰는 기법이다. 
 - -> Node에서는 어떻게 이용할 수 있을까?
