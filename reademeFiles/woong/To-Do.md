@@ -1,8 +1,8 @@
 12월 3주차
 - [ ] [JS this 바인딩 복습](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/JSThis.md)
 - [ ] Dwitter 리팩토링 완성하기
--  [프론트엔드 코드개선](https://github.com/Dreamcoding-woong/NodeJS)
-    - Class 관련 javascript 문법 정독
+    -  [프론트엔드 코드개선](https://github.com/Dreamcoding-woong/NodeJS)
+    - [Class 관련 javascript 문법 정독](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/JSClass.md)
 
 - [ ] Validation library 익히기(express-validator)
     - [validatoin 과 Sanitation library 익히기](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/Dwitter.md)
