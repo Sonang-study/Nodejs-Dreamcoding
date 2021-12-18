@@ -5,7 +5,7 @@
     - [Class 관련 javascript 문법 정독](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/data/JSClass.md)
 
 - [ ] Validation library 익히기(express-validator)
-    - [validatoin 과 Sanitation library 익히기](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/data/Dwitter.md)
+    - [validatoin 과 Sanitation library 익히기](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/data/ValidSanit.md)
     - Contract Testing: Client-Server에 대해 공부해보기
 
 - [ ] Authentication
