@@ -18,7 +18,7 @@ You are who you say you are
 ## JWT의 방법
 
 JWT (Header ,Payload, signature로 구성) secret을 통해 정보의 유효성을 확인할 수 있다.
-<img src="JWT.png" alt="jwtImg">
+<img src="./src/JWT.png" alt="jwtImg">
 
 장점
 
