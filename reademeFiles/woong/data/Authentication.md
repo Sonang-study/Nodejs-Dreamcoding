@@ -4,7 +4,7 @@ You are who you say you are
 
 ## Session과 Cookie를 이용하는 로그인 방법
 
-<img src="../src/Session.png" alt="sessionImg">
+<img src="./src/Session.png" alt="sessionImg">
 
 1. 신뢰할 수 있는 데이터가 있다.
 2. 클라이언트에서 별도 처리 없이 브라우저에서 처리가능
@@ -18,7 +18,7 @@ You are who you say you are
 ## JWT의 방법
 
 JWT (Header ,Payload, signature로 구성) secret을 통해 정보의 유효성을 확인할 수 있다.
-<img src="../src/JWT.png" alt="jwtImg">
+<img src="JWT.png" alt="jwtImg">
 
 장점
 
