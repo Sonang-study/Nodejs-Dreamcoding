@@ -33,6 +33,7 @@
 <hr/>
 
 ## Ellie가 짠 API
+[Ellie 노션](https://www.notion.so/API-Spec-Auth-c5bcb65d75c7415dbd47cc3be818c5a0)
 
 **User Schema**
 
@@ -65,7 +66,7 @@
 
     Req:
         {
-            token,
+            username,
             password
         }
 
