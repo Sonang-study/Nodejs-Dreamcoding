@@ -29,3 +29,15 @@
 - [ ] [Git Commit Message는 어떻게 작성을 해야하나?](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/feature/woong/reademeFiles/woong/data/GitHub.md)
 
 - [ ] [Database 기본강의 듣기](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/feature/woong/reademeFiles/woong/data/database.md)
+
+
+## 12월 5주차
+- [ ]DBMS 종류별 공부
+  - MySQL
+  - Sequelize
+  - MongoDB
+  - Mongoose
+- [ ] Security Issue
+  - XSS Attack
+  - CSRF Attack
+  - Rate Limit
