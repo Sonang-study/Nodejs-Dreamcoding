@@ -3,18 +3,25 @@
 ## Git 브랜치 전략
 
 - main branch(master, develop)
-- 필요시 생성 브랜치(feature-, hotfix-, release / improvement, bugfix-) <img src="../src/main_brench.png" alt="mainBrench">
+- 필요시 생성 브랜치(feature-, hotfix-, release / improvement, bugfix-)
+ <img src="../src/main_brench.png" alt="mainBrench">
 
 master: 배포가능한 상태만을 관리하는 브랜치
 develop: 다음에 배포할 것을 개발하는 브랜치
 
 - 보조브랜치: 피처브랜치(feature branch) or 토픽 브랜치(topic branch)
-  보통 개발자 저장소에만 있는 브랜치로 origin에 push하지는 않음<img src="../src/brench.png" alt="brench">
+  보통 개발자 저장소에만 있는 브랜치로 origin에 push하지는 않음
+  <img src="../src/brench.png" alt="brench">
 
 feature/#이슈번호 와 같은 형태로 브랜치를 관리한다
 
-- 릴리즈 브랜치: 배포를 위한 최종적인 버그 수정 등의 개발을 수행<img src="../src/release_brench.png" alt="releaseBrench">
-- 핫픽스 브랜치: 배포한 버전에서 긴급하게 수정할 필요가 있을때 master 에서 분리하는 브랜치 -<img src="../src/hot_fix_brench.png" alt="hotFixBrench">
+- 릴리즈 브랜치: 배포를 위한 최종적인 버그 수정 등의 개발을 수행
+<img src="../src/release_brench.png" alt="releaseBrench">
+
+- 핫픽스 브랜치: 배포한 버전에서 긴급하게 수정할 필요가 있을때 master 에서 분리하는 브랜치 
+<img src="../src/hot_fix_brench.png" alt="hotFixBrench">
+
+<br/>
 
 ## 좋은 커밋메시지 작성법
 
