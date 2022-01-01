@@ -33,7 +33,8 @@
 
 ## 12월 5주차
 - [ ]DBMS 종류별 공부
-  - MySQL
+  - [MySQL 오류 및 해결]()
+    -[mysql document](https://dev.mysql.com/doc/refman/8.0/en/)
   - Sequelize
   - MongoDB
   - Mongoose
