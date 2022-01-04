@@ -11,8 +11,6 @@
 - [ ] Authentication
     - [Session과 JWT의 차이점](https://github.com/Sonang-study/Nodejs-Dreamcoding/blob/master/reademeFiles/woong/data/Authentication.md)
     - [bcrypt 와 jwt 이용하여 자유롭게 로그인 + 기본 기능 유효성 구현](https://github.com/Dreamcoding-woong/NodeJS)
-<<<<<<< HEAD
-=======
 
 ## 12월 4주차
 
@@ -43,4 +41,11 @@
   - XSS Attack
   - CSRF Attack
   - Rate Limit
->>>>>>> 365e27fe3c8d51c5ad7d470197721b88906e59a5
+
+## 1월 1주차
+- [ ]DBMS 종류별 공부 복습
+  - 이론 복습
+  - ODM을 썼을 때 안썼을 때 느낀점
+- [ ] Deployment
+  - 이론
+  - platform.sh, Heroku, Netlify 사용 후기
